@@ -1,2 +1,2 @@
 # Likelihood-alternation-with-belief
-A prior probability greatly impacts and alters the likelihood and the posterior probability. 
+A prior probability greatly impacts and alters the likelihood and the posterior probability. Even there are various conditional probabilities that occur in general situation or obvious situations, but a strong held belief can counter those conditions and predicts a totlly absurd result. So a belief can be the known data and proven data on the similar environments.
